@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88562500.css",
+    "main.js": "/static/js/main.efa049bc.js",
+    "static/js/787.21a6289d.chunk.js": "/static/js/787.21a6289d.chunk.js",
+    "static/media/sponsored-bottom-img.png": "/static/media/sponsored-bottom-img.4fbfd92725d3ec9e3fc2.png",
+    "static/media/pure-wbnb-img-1.png": "/static/media/pure-wbnb-img-1.6ddf84054f66525cd261.png",
+    "static/media/1.png": "/static/media/1.d8f41888672e68a3f1cb.png",
+    "static/media/pure-wbnb-img-2.png": "/static/media/pure-wbnb-img-2.1cbbc7cbc1756ff107ff.png",
+    "static/media/token-metrics.png": "/static/media/token-metrics.7c349af8996bbb55f88b.png",
+    "static/media/middle-banner.jpg": "/static/media/middle-banner.9895b2a46e496b8f9362.jpg",
+    "static/media/soft-cash-img-1.png": "/static/media/soft-cash-img-1.fc0d96fa54c561e9666e.png",
+    "static/media/soft-cash-img-2.png": "/static/media/soft-cash-img-2.1d4faad42b858babea25.png",
+    "static/media/choose-input.png": "/static/media/choose-input.0302d433ff9972de8396.png",
+    "static/media/soft-cash-img-5.png": "/static/media/soft-cash-img-5.97e80a80b008d5539181.png",
+    "static/media/left-side-banner.png": "/static/media/left-side-banner.ea88d4f360b9264cfcc7.png",
+    "static/media/dogecoin.png": "/static/media/dogecoin.89ed298a6c9c6f0d8fa4.png",
+    "static/media/soft-cash-img-3.png": "/static/media/soft-cash-img-3.ddaac4f73b38f3918818.png",
+    "static/media/right-side-top-img.jpg": "/static/media/right-side-top-img.8c11003eca199c395844.jpg",
+    "static/media/supper.png": "/static/media/supper.442fd22211284951ecc2.png",
+    "static/media/soft-cash-img-4.png": "/static/media/soft-cash-img-4.ddc1b72eddd009b595af.png",
+    "static/media/right-side-banner.jpg": "/static/media/right-side-banner.dfa183977443ea408429.jpg",
+    "static/media/right-side-bottom-img.jpg": "/static/media/right-side-bottom-img.fc845f0a9dc65f3c52d3.jpg",
+    "static/media/highlights-1.jpg": "/static/media/highlights-1.9fd2d9b8204c65944e0b.jpg",
+    "static/media/launch-middle.png": "/static/media/launch-middle.d0e1baf7142aae01313a.png",
+    "static/media/highlights-3.jpg": "/static/media/highlights-3.cb89221c8c6db5cea274.jpg",
+    "static/media/highlights-2.jpg": "/static/media/highlights-2.200931a3bfe83bc98b5b.jpg",
+    "static/media/pure-wallet-img.png": "/static/media/pure-wallet-img.7a8fb9bb8cce0f8f00db.png",
+    "static/media/solution-service-item.png": "/static/media/solution-service-item.fc16487df0d6412a2995.png",
+    "static/media/logo.svg": "/static/media/logo.95d07e6dbf674eda5db4.svg",
+    "index.html": "/index.html",
+    "static/media/language-icon.svg": "/static/media/language-icon.81d5f5cdcf686ed6746f.svg",
+    "main.88562500.css.map": "/static/css/main.88562500.css.map",
+    "main.efa049bc.js.map": "/static/js/main.efa049bc.js.map",
+    "787.21a6289d.chunk.js.map": "/static/js/787.21a6289d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88562500.css",
+    "static/js/main.efa049bc.js"
+  ]
+}
