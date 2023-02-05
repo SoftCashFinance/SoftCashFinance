@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Soft Cash Finance React Version 1.0
 
 <!--
 **SoftCashFinance/SoftCashFinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
